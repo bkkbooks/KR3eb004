@@ -1,0 +1,44 @@
+canonical_identifier: bkk:krp/KR3eb004/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eb004/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 醫宗金鑑·四診心法要訣
+  identifiers:
+    krp: KR3eb004
+  tags:
+    kr-categories: KR3eb
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eb004.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eb004_000-jc.yaml, hash: 'sha256:3d38c36a00bd775fd18b6febe2a429499214831d10b512ecdd9dfc04178cade4'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eb004_000-jc.markers.yaml, hash: 'sha256:555dd03b1eb6e6503f2ec882f6deeaaab8228ce064d540b164dd5c07d8575037'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eb004_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 12002
+  label: 四診心法要訣上
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb004_jc_000-d3.h1s1
+    span:
+    - body
+    - 12002
+    - 19724
+  label: 四診心法要訣下
+  type: section
+  level: 1
+hash: sha256:00c957c15442425285090c2784c415fcf5d19f6e3364814c21240a1d21fad780
