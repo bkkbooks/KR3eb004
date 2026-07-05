@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eb004_000.yaml, hash: 'sha256:77f9dbbdc04eaf541578bac2ba9abb825ae0dd45bfd82dda1e338804506e3789'}
+  - {seq: 0, filename: KR3eb004_000.yaml, hash: 'sha256:3d38c36a00bd775fd18b6febe2a429499214831d10b512ecdd9dfc04178cade4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eb004_000.markers.yaml, hash: 'sha256:25abc2b5128a5e06cf36324ddd0756e383aa7925924d09ed01b5597bb9b71f94'}
+  - {seq: 0, role: markers, filename: assets/KR3eb004_000.markers.yaml, hash: 'sha256:64f1ef8495099899638deee6cbe0fd242852c03daf3d8f25465063d1386b7a34'}
 table_of_contents:
 - ref:
     seq: 0
@@ -41,7 +41,4 @@ table_of_contents:
   label: 四診心法要訣下
   type: section
   level: 1
-hash: sha256:723d0244cde2c0d3db1ed5e1a07c3c01eca30c35bf5c5c535f6ba0d1537b36b4
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:04a98eb9f69499bf9084021d05d40a0eb40dd33dd99caf3aca23aafae6608883
