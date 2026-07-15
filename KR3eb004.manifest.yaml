@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eb004/v1
 canonical_location: https://kanripo.org/bkk/KR3eb004/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 醫宗金鑑·四診心法要訣
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eb004_000.yaml, hash: 'sha256:3d38c36a00bd775fd18b6febe2a429499214831d10b512ecdd9dfc04178cade4'}
+  - {seq: 0, filename: KR3eb004_000.yaml, hash: 'sha256:4ecdae153c9512bada25ad70bcd0977ef6c4b411e3176a7b24019060ac474fbb'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eb004_000.markers.yaml, hash: 'sha256:64f1ef8495099899638deee6cbe0fd242852c03daf3d8f25465063d1386b7a34'}
+  - {seq: 0, role: markers, filename: assets/KR3eb004_000.markers.yaml, hash: 'sha256:f6b545305dca2930df54af778e90198f058e746150dcf8a3541fc8695c3a737c'}
 table_of_contents:
 - ref:
     seq: 0
@@ -41,4 +41,7 @@ table_of_contents:
   label: 四診心法要訣下
   type: section
   level: 1
-hash: sha256:04a98eb9f69499bf9084021d05d40a0eb40dd33dd99caf3aca23aafae6608883
+hash: sha256:7423b3843c5167e74a6e36aee9d5e7c07baa3aed4f12bdb8842ade0c5094e71a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
